@@ -1,0 +1,1 @@
+Software Prerequisites:Node.jsMySQL ServerphpMyAdminNode.js Dependencies:dotenvmysql2node-telegram-bot-api
